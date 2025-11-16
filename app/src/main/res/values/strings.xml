@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HealthyVibe</string>
+    <string name="nav_habits">Habits</string>
+    <string name="nav_mood">Mood</string>
+    <string name="nav_settings">Hydration</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="habit_name">Habit name</string>
+    <string name="times_per_day">Times per day</string>
+    <string name="emoji">Emoji</string>
+    <string name="share_summary">Share Summary</string>
+    <string name="hydration_interval">Hydration interval (minutes)</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="widget_title">HealthyVibe — Today</string>
+
+
+    <!-- Profile  -->
+    <string name="nav_profile">Profile</string>
+    <string name="profile_title">Your Profile</string>
+    <string name="profile_name">Display name</string>
+    <string name="profile_bio">Bio</string>
+    <string name="profile_save">Save</string>
+
+</resources>

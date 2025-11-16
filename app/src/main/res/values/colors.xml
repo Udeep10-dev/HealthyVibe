@@ -1,0 +1,76 @@
+<resources>
+    <!-- Legacy Material Colors (keep for compatibility) -->
+    <color name="purple_200">#2196F3</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Primary Brand Colors - Blue Theme -->
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_blue_dark">#1976D2</color>
+    <color name="primary_blue_light">#64B5F6</color>
+    <color name="secondory_blue">#0054A6</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_green_dark">#388E3C</color>
+    <color name="primary_green">#4CAF50</color>
+    <color name="primary_green_dark">#388E3C</color>
+
+    <!-- Background Colors -->
+    <color name="background_primary">#FFFFFF</color>
+    <color name="background_secondary">#F5F7FA</color>
+    <color name="card_background_start">#FAFAFA</color>
+    <color name="card_background_end">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F0F4F8</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_tertiary">#999999</color>
+    <color name="text_light">#888888</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_accent">#FFFFFF</color>
+
+    <!-- Action & Interactive Colors -->
+    <color name="action_background">#F0F0F0</color>
+    <color name="action_background_pressed">#E0E0E0</color>
+    <color name="button_primary">#2196F3</color>
+    <color name="button_secondary">#64B5F6</color>
+    <color name="icon_background">#2196F3</color>
+
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="delete_color">#F44336</color>
+    <color name="info">#2196F3</color>
+
+    <!-- Progress & Chip Colors -->
+    <color name="progress_background">#E3F2FD</color>
+    <color name="progress_fill">#2196F3</color>
+    <color name="time_chip_background">#E3F2FD</color>
+    <color name="time_chip_text">#1976D2</color>
+    <color name="chip_background">#F0F4F8</color>
+
+    <!-- Divider & Border Colors -->
+    <color name="divider">#E0E0E0</color>
+    <color name="border">#BDBDBD</color>
+    <color name="outline">#C4CDD5</color>
+    <color name="outline_variant">#E1E8ED</color>
+
+    <!-- Overlay Colors -->
+    <color name="overlay_light">#10000000</color>
+    <color name="overlay_dark">#60000000</color>
+    <color name="ripple">#1F2196F3</color>
+
+    <!-- Semantic Colors for Habit Tracking -->
+    <color name="habit_complete">#4CAF50</color>
+    <color name="habit_incomplete">#FFC107</color>
+    <color name="habit_missed">#F44336</color>
+    <color name="streak_gold">#FFD700</color>
+</resources>
