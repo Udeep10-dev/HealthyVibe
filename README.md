@@ -34,22 +34,22 @@ Whether you're improving sleep, drinking more water, exercising, or focusing on 
 ## 📸 Screenshots  
 
 ### 🏠 Home Dashboard  
-<img src="screenshots/home.png" alt="Home Dashboard" width="300"/>
+<img src="screenshots/2.jpg" alt="Home Dashboard" width="300"/>
 
 ### ➕ Add Habit  
-<img src="screenshots/add_habit.png" alt="Add Habit" width="300"/>
+<img src="screenshots/1.jpg" alt="Add Habit" width="300"/>
 
-### 📅 Daily Tracking  
-<img src="screenshots/tracking.png" alt="Daily Tracking" width="300"/>
+### ➕ Add Mood  
+<img src="screenshots/4.jpg" alt="Add Mood" width="300"/>
 
-### 🔥 Streak View  
-<img src="screenshots/streak.png" alt="Streak Screen" width="300"/>
+### 📅 Mood Tracking graph 
+<img src="screenshots/6.jpg" alt=" Mood" width="300"/>s
 
-### 📊 Progress Overview  
-<img src="screenshots/progress.png" alt="Progress Overview" width="300"/>
+### 📅 hidration reminder 
+<img src="screenshots/5.jpg" alt="reminder" width="300"/>
 
 ### 👤 Profile  
-<img src="screenshots/profile.png" alt="Profile Screen" width="300"/>
+<img src="screenshots/8.jpg" alt="Profile Screen" width="300"/>
 
 ---
 
